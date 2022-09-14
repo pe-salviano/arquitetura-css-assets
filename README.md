@@ -1,7 +1,3 @@
-# arquitetura-css-assets
-Curso realizado para treinamento da arquitetura CSS - deixando  o CSS bem estruturado. 
-
-
 <h1>➡<a href="https://pe-salviano.github.io/arquitetura-css-assets/arquitetura-css-assets/" target="_blank"> Fruta&Fruto </a>⬅</h1>
 
 
